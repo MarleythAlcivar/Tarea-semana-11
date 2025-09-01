@@ -1,0 +1,14 @@
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\bin\Debug\net9.0\Semana 11.exe
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\bin\Debug\net9.0\Semana 11.deps.json
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\bin\Debug\net9.0\Semana 11.runtimeconfig.json
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\bin\Debug\net9.0\Semana 11.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\bin\Debug\net9.0\Semana 11.pdb
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.AssemblyInfoInputs.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.AssemblyInfo.cs
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.csproj.CoreCompileInputs.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\refint\Semana 11.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.pdb
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\Semana 11.genruntimeconfig.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\SEMANA 11\Semana 11\obj\Debug\net9.0\ref\Semana 11.dll
